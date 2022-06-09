@@ -1,4 +1,3 @@
-# VoronLoadingScreen
 ![bootscreen](bootscreen.gif)
 
 ### Instructions
